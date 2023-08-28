@@ -1,0 +1,8 @@
+[
+  {
+    "name": "dummy_http",
+    "listen": ":20000",
+    "upstream": "localhost:8080",
+    "enabled": true
+  }
+]
